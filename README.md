@@ -1,0 +1,1 @@
+# adso-pyhton-flask-azure-simple-app
